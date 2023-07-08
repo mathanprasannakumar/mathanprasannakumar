@@ -10,7 +10,7 @@
 - 💬 Ask me about **CNN,CV,Neural networks**
 
 - 📫 How to reach me **mathanprasannakumar@gmail.com**
-- My Portfolio Website : <a href= "mathanprasannakumar.github.io"><b>mathanprasannakumar.github.io</b></a>
+- My Portfolio Website : <a href= "https://mathanprasannakumar.github.io/" target="_blank"><b>mathanprasannakumar.github.io</b></a>
 
 
 # 💻 Tech Stack:
