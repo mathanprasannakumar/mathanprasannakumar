@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathanprasannakumar&label=Profile%20views&color=0e75b6&style=flat" alt="mathanprasannakumar" /> </p>
 
-- 🔭 I’m currently working on **A End to End Face Recognition system**
+- 🔭 I’m currently working on ***Diffusion Models*
 
-- 💬 Ask me about **CNN,CV,Neural networks**
+- 💬 Ask me about **GAN,Tensorflow,CNN,CV,Neural networks**
 
-- 📫 How to reach me **mathanprasannakumar@gmail.com**
+- 📫 How to reach me **mathanprasannakumar44@gmail.com**
 - My Portfolio Website : <a href= "https://mathanprasannakumar.github.io/" target="_blank"><b>mathanprasannakumar.github.io</b></a>
 
 
