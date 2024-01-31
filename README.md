@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathanprasannakumar&label=Profile%20views&color=0e75b6&style=flat" alt="mathanprasannakumar" /> </p>
 
-- 🔭 I’m currently working on ***Tensorrt deployment***
+- 🔭 I’m currently working on ***Localizing AGV vehicle***
 
 - 💬 Ask me about **GAN,Tensorflow,CNN,CV,Neural networks**
 
