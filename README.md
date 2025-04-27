@@ -34,6 +34,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mathanprasannakumar&theme=tokyonight)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mathanprasannakumar&theme=radical&row=1&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
