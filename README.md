@@ -1,6 +1,6 @@
 # Hi, I'm Mathan Prasanna Kumar 👋
 
-I love developing AI powered solutions that solve complex problems.
+I love developing **AI-powered solutions** that solve complex problems.
 
 ---
 
@@ -15,18 +15,26 @@ I love developing AI powered solutions that solve complex problems.
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
   ![ROS 2](https://img.shields.io/badge/-ROS%202-22314E?style=flat&logo=ros&logoColor=white)  
   ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3D6B?style=flat&logo=opencv&logoColor=white)  
-  ![TensorRT](https://img.shields.io/badge/-TensorRT-FF6F00?style=flat&logo=nvidia&logoColor=white)
+  ![TensorRT](https://img.shields.io/badge/-TensorRT-FF6F00?style=flat&logo=nvidia&logoColor=white)  
+  ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white)  
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 - **Specializations:**  
-  - Deep Learning  
-  - Computer Vision  
-  - Multi-Object Tracking (ByteTrack)
+  - **Deep Learning**  
+    ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=nvidia&logoColor=white)  
+  - **Computer Vision**  
+    ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C3D6B?style=flat&logo=opencv&logoColor=white)  
+  - **Multi-Object Tracking (ByteTrack)**  
+    ![Tracking](https://img.shields.io/badge/-Tracking-76B900?style=flat&logo=google&logoColor=white)
 
 ---
 
 ### Connect with Me
 
-📫 **Contact:** [Your Email or LinkedIn](#)
+📧 [Gmail](mailto:mathanprasannakumar44@gmail.com)  
+🔗 [LinkedIn](www.linkedin.com/in/mathan-prasanna-kumar-s-338821283)
+
 
 ---
 
@@ -37,4 +45,4 @@ I love developing AI powered solutions that solve complex problems.
 
 ### Fun Fact 🤔
 
-I love solving complex problems in robotics and AI, constantly learning new techniques to optimize systems for real-world applications.
+I am a coffee nerd who loves learning complex stuffs.
