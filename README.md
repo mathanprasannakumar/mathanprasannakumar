@@ -1,14 +1,17 @@
-<div align="center">
-# Hi, I'm Mathan Prasanna Kumar 👋
 
-I love developing **AI-powered solutions** that solve complex problems.
-</div>
+<h2 align="center">  Hi, I'm Mathan Prasanna Kumar 👋 </h2>
+<p align="center">I love developing AI-powered solutions that solve complex problems</p>
 
 ---
-
-### Connect with Me
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mathanprasannakumar44@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathan-prasanna-kumar-s-338821283)
+<h3 align="center"> Connect with me </h3>
+<div align="center">
+  <a href="mailto:mathanprasannakumar44@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/mathan-prasanna-kumar-s-338821283">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
 ---
 
@@ -25,8 +28,9 @@ I love developing **AI-powered solutions** that solve complex problems.
   ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=nvidia&logoColor=white)  ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C3D6B?style=flat&logo=opencv&logoColor=white)  ![Object Tracking](https://img.shields.io/badge/-Tracking-76B900?style=flat&logo=google&logoColor=white)
 
 
+
 💻 **My GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathanprasannakumar&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
 
 ---
 
