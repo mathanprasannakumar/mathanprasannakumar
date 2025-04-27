@@ -6,8 +6,8 @@
 <h3 align="center"> Connect with me </h3>
 <div align="center">
   <a href="mailto:mathanprasannakumar44@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmailf">
+  </a>&nbsp&nbsp&nbsp&nbsp
   <a href="https://www.linkedin.com/in/mathan-prasanna-kumar-s-338821283">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -30,7 +30,10 @@
 
 
 💻 **My GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathanprasannakumar&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
+![ GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=mathanprasannakumar&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mathanprasannakumar&theme=tokyonight)
+
 
 ---
 
