@@ -21,28 +21,24 @@ I love developing **AI-powered solutions** that solve complex problems.
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 - **Specializations:**  
-  - **Deep Learning**  
-    ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=nvidia&logoColor=white)  
-  - **Computer Vision**  
-    ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C3D6B?style=flat&logo=opencv&logoColor=white)  
-  - **Multi-Object Tracking (ByteTrack)**  
-    ![Tracking](https://img.shields.io/badge/-Tracking-76B900?style=flat&logo=google&logoColor=white)
+  ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=nvidia&logoColor=white)  
+  ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C3D6B?style=flat&logo=opencv&logoColor=white)  
+  ![Tracking](https://img.shields.io/badge/-Tracking-76B900?style=flat&logo=google&logoColor=white)
 
 ---
 
 ### Connect with Me
 
-📧 [Gmail](mailto:mathanprasannakumar44@gmail.com)  
-🔗 [LinkedIn](www.linkedin.com/in/mathan-prasanna-kumar-s-338821283)
-
+📧 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mathanprasannakumar44@gmail.com)  
+🔗 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathan-prasanna-kumar-s-338821283)
 
 ---
 
 💻 **My GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathanprasannakumar&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
 
 ---
 
 ### Fun Fact 🤔
 
-I am a coffee nerd who loves learning complex stuffs.
+I am a coffee nerd who loves learning complex stuff.
