@@ -1,8 +1,9 @@
+<div align="center">
 # Hi, I'm Mathan Prasanna Kumar 👋
 
 I love developing **AI-powered solutions** that solve complex problems.
+</div>
 
----
 ---
 
 ### Connect with Me
