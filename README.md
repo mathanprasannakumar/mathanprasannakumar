@@ -30,7 +30,7 @@
 
 
 💻 **My GitHub Stats**  
-![ GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=mathanprasannakumar&theme=tokyonight)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=mathanprasannakumar&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mathanprasannakumar&theme=tokyonight)
 
